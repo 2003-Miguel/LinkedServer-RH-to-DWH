@@ -1,1 +1,1 @@
-SELECT * FROM DimEmpleado;
+SELECT * FROM sys.servers;
