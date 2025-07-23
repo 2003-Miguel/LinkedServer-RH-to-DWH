@@ -14,6 +14,7 @@ Este repositorio contiene una solución de integración entre el sistema de Recu
 - `/Scripts_SQL/`: Contiene todos los scripts necesarios para crear las bases de datos, tablas, insertar datos y realizar la integración.
 - `/Capturas/`: Evidencias gráficas de la ejecución de los scripts.
 - `Justificacion_Tecnica.md`: Documento que explica la arquitectura de integración propuesta.
+- `/Backups/`: Copias de las bases de datos
 
 ## ✅ Pasos para probar el proyecto
 
@@ -25,5 +26,10 @@ Este repositorio contiene una solución de integración entre el sistema de Recu
 
 ## 📌 Autores
 
-Miguel Alejandro Vásquez Lara  
-Estudiante de Ingeniería en Sistemas
+Miguel Alejandro Vásquez Lara - A00109487
+
+Anthony Liriano Araujo - A00112515
+
+Alina Marina Hermon Castro - A00116790
+
+Pablo Berroa Heredia - A00105809
